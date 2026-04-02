@@ -56,8 +56,6 @@ agent-search = "agent_search.cli:main"
 Homepage = "https://github.com/travis-burmaster/agent-search-tool"
 Repository = "https://github.com/travis-burmaster/agent-search-tool"
 Issues = "https://github.com/travis-burmaster/agent-search-tool/issues"
-Repository = "https://github.com/Panniantong/agent-search"
-Issues = "https://github.com/Panniantong/agent-search/issues"
 
 [build-system]
 requires = ["setuptools>=68"]
