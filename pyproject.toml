@@ -1,6 +1,6 @@
 [project]
 name = "agent-search-tool"
-version = "1.4.6"
+version = "1.4.7"
 description = "Give your AI Agent eyes to see the entire internet. Search + Read 10+ platforms."
 readme = "README.md"
 license = {text = "MIT"}
@@ -53,7 +53,9 @@ dev = [
 agent-search = "agent_search.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/Panniantong/agent-search"
+Homepage = "https://github.com/travis-burmaster/agent-search-tool"
+Repository = "https://github.com/travis-burmaster/agent-search-tool"
+Issues = "https://github.com/travis-burmaster/agent-search-tool/issues"
 Repository = "https://github.com/Panniantong/agent-search"
 Issues = "https://github.com/Panniantong/agent-search/issues"
 
